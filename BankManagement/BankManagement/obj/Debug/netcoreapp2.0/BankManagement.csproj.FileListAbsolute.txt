@@ -1,0 +1,11 @@
+C:\Users\Black\source\repos\BankManagement\BankManagement\obj\Debug\netcoreapp2.0\BankManagement.csprojResolveAssemblyReference.cache
+C:\Users\Black\source\repos\BankManagement\BankManagement\obj\Debug\netcoreapp2.0\BankManagement.csproj.CoreCompileInputs.cache
+C:\Users\Black\source\repos\BankManagement\BankManagement\obj\Debug\netcoreapp2.0\BankManagement.AssemblyInfoInputs.cache
+C:\Users\Black\source\repos\BankManagement\BankManagement\obj\Debug\netcoreapp2.0\BankManagement.AssemblyInfo.cs
+C:\Users\Black\source\repos\BankManagement\BankManagement\bin\Debug\netcoreapp2.0\BankManagement.deps.json
+C:\Users\Black\source\repos\BankManagement\BankManagement\bin\Debug\netcoreapp2.0\BankManagement.runtimeconfig.json
+C:\Users\Black\source\repos\BankManagement\BankManagement\bin\Debug\netcoreapp2.0\BankManagement.runtimeconfig.dev.json
+C:\Users\Black\source\repos\BankManagement\BankManagement\bin\Debug\netcoreapp2.0\BankManagement.dll
+C:\Users\Black\source\repos\BankManagement\BankManagement\bin\Debug\netcoreapp2.0\BankManagement.pdb
+C:\Users\Black\source\repos\BankManagement\BankManagement\obj\Debug\netcoreapp2.0\BankManagement.dll
+C:\Users\Black\source\repos\BankManagement\BankManagement\obj\Debug\netcoreapp2.0\BankManagement.pdb
